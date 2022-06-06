@@ -1,0 +1,18 @@
+body{
+    background-color: light  gray;
+}
+
+h2,h3,h4{
+    color: white;
+
+    text-align: center;
+}
+
+.copy_right_footer{
+    color: white;
+}
+
+#two{
+    text-align: center;
+    color: red;
+}
